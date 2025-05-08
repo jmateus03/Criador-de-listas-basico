@@ -29,10 +29,10 @@ h1 {
   width: 102vh;
 }
 #LDC li{ 
-  position: relative;
-  color:rgba(194, 22, 22, 0.958);
-  top:-420px;
-  left:57%;
-  line-height: 32px;
-  font-size: 23px;
+ position: relative;
+ color: rgba(194, 22, 22, 0.958);
+ top: -437px;
+ left: 57%;
+ line-height: 42px;
+ font-size: 27px;
 }
